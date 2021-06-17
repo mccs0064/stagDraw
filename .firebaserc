@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "stagdraw-fb3c4"
+  },
+  "targets": {
+    "stagdraw-fb3c4": {
+      "hosting": {
+        "stagDraw": [
+          "stagdraw-fb3c4"
+        ]
+      }
+    }
   }
 }

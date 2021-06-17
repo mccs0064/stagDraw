@@ -1,0 +1,6 @@
+<h1>Prizes</h1>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div *ngFor="let prize of prizeList" class="col">
+    <prize class="card h-100" [prize]="prize"></prize>
+  </div>
+</div>
