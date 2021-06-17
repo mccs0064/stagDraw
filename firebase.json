@@ -1,6 +1,7 @@
 {
   "hosting": [
     {
+      "target": "stagDraw",
       "public": "dist/stagDraw",
       "ignore": [
         "firebase.json",
