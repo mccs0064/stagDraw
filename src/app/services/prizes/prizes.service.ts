@@ -141,6 +141,56 @@ export class PrizesService {
         'Collection bag and mulch plug'
       ],
       description: '10-Amp 16-in deck width corded electric push lawn mower with mulching capability · Designed with a 5 position single lever height adjustment system that can cut that can cut grass from 1-1/4-in (3.3-cm) to 3-3/8-in (8.5-cm). With its easy fold system, it easily becomes compact enough for storage or transportation.'
+    },
+    {
+      id: 14, 
+      name: 'Stanley 19 Inch Metal Tool Box',
+      details: [
+        'One-hand operation',
+        'Long handle',
+        'Auto sliding drawer'
+      ],
+      description: 'Stanley 19 Inch Metal Tool Box are manufactured by using quality assured material and advanced techniques, which make them up to the standard in this highly challenging field.'
+    },
+    {
+      id: 15, 
+      name: 'Mastercraft 7.5A Impact Wrench, 1/2-in',
+      details: [
+        '1/2" square drive with friction ring system that securely holds sockets and adaptors',
+        '2,200 RPM and 2,700 BPM make removing and fastening lug nuts and bolts fast and easy',
+        'Aluminum alloy housing for outstanding strength and durability'
+      ],
+      description: 'The Mastercraft 7.5A Impact Wrench delivers 240 ft-lbs of torque for high-demand projects and heavy-duty fastening applications'
+    },
+    {
+      id: 16, 
+      name: 'Mastercraft Screwdriver Set, 60-pc',
+      details: [
+        'CRV blades for durability and strength',
+        'Satin-chrome plated shafts for durability and rust resistance',
+        'Mastercraft Screwdriver Set has soft textured grip for comfort and control'
+      ],
+      description: '60-pc Screwdriver Set'
+    },
+    {
+      id: 17, 
+      name: 'Certified Tool Set, 191-pc',
+      details: [
+        'Certified Tool Set features a wheeled case with a telescopic handle for easy convenience and storage',
+        'Great for condo owners and DIYers; very portable',
+        '191 piece set includes all general household tools'
+      ],
+      description: 'Certified Tool Set, 191 piece set includes all general household tools'
+    },
+    {
+      id: 18, 
+      name: 'Vladimir Guerrero Jr. Toronto Blue Jays Majestic Jersey',
+      details: [
+        'Vladimir Guerrero Jr. Number 27 on back',
+        'Size: Large',
+        'Made by Majestic'
+      ],
+      description: 'Majestic Vladimir Guerrero Jr. Toronto Blue Jays MLB Jersey'
     }
   ]
   constructor() { }
