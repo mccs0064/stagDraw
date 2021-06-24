@@ -43,6 +43,16 @@ export class PrizesService {
       description: 'This Insignia LED 1080p HDTV has one USB and three HDMI ports make it easy to transfer movies from your computer to the TV for maximum enjoyment of the 1080p Full HD resolution. It supports jpeg viewing to easily display photo albums and features a headphone jack for listening without disturbing others.'
     },
     {
+      id: 21, 
+      name: 'Sony 50" 4K UHD HDR LED Google Smart TV',
+      details: [
+        '50" 4K screen provides an immersive viewing experience with 3840 x 2160 native resolution ',
+        'LED backlighting provides excellent viewing angles and consistent brightness',
+        'Dolby Vision helps you watch cinematic content as its creator intended '
+      ],
+      description: 'Immerse yourself in absolutely stunning visuals with this Sony 50" UHD TV. It has true-to-life 4K HDR and Full Triluminos Pro along with Motionflow XR to give you the best picture possible no matter what you are watching. You can easily select your favourite TV shows and movies using Google TV or Apple AirPlay, as well, for endless hours of entertainment. '
+    },
+    {
       id: 4, 
       name: 'Napoleon Rogue 425 Propane BBQ',
       details: [
@@ -63,15 +73,46 @@ export class PrizesService {
       description: 'Charcoal enthusiasts can have a full-sized grilling experience with the compact and mobile Napoleon PRO Charcoal Kettle Grill with Cart. The stainless steel, folding side shelf provides a generous prep space. The folding shelf isnt the only thing that is spacious; grill up to 23 hamburgers at once on the large, hinged, cast iron cooking grids.'
     },
     {
-      id: 6, 
-      name: 'Monster NOMAD Portable Indoor/Outdoor Wireless Speaker',
+      id: 19, 
+      name: 'Dyson V11 Torque Drive Cord-Free Stick Vacuum',
       details: [
-        'Bluetooth And NFC Technology',
-        '30W Of Total Audio Power',
-        'IPX4 Water-Resistant Rating'
+        'High Torque cleaner head and DLS technology intelligently adapts to different floor types (in Auto mode). The right power, where you need it.',
+        'LCD screen shows real time performance, including selected power mode, remaining run time, filter maintenance reminders and blockage reports',
+        'Advanced filtration captures 99.97% of microscopic dust particles as small as 0.3 microns. '
       ],
-      description: 'The NOMAD packs high-power sound and long battery life in a compact speaker that easily fits in your backpack. Built for outdoors and indoors, rain or shine, this speaker-radio balances form and function that won’t slow you down.'
+      description: 'Twice the suction of any cord-free vacuum. Tested at the cleaner head to ASTM F558, dust-loaded, against cord-free stick market. Up to 60 minutes of fade-free floor cleaning. Actual runtime will vary based on power mode and/or attachments used.'
     },
+    {
+      id: 20, 
+      name: 'Fitbit Versa 3 - Black Aluminum with Black Band',
+      details: [
+        'more than 20 exercise modes',
+        'Water resistance to 50 metres ',
+        'Lithium-ion polymer battery delivers up to 6 days of battery life on a single charge'
+      ],
+      description: 'Achieve your fitness goals more efficiently with the help of the Fitbit Versa 3 smartwatch. With built-in GPS, this watch tracks your heart rate, calories burned, steps, and even sleep so you can enjoy greater well-being day and night. Its equipped with built-in Amazon Alexa for hands-free convenience and keeps you connected to your phone calls, texts, emails, and more.'
+    },
+    
+    {
+      id: 22, 
+      name: 'Zwilling Four Star 8 Pc Block Set',
+      details: [
+        'German special formula high carbon, no-stain steel',
+        'Ergonomic molded polypropylene handle',
+        'Made in Germany'
+      ],
+      description: 'Ergonomically molded handle has set the standard for comfort and control for over 40 years. This series features one-piece SIGMAFORGE® knives, ice-hardened and perfectly honed for a lasting cutting edge.  Set includes: 4" paring, 5" Tomato/Bagel, 5.5" Utility, 8" Chef, 8" Bread, 9" Sharpening steel, Kitchen Shears, Natural Block'
+    },
+    // {
+    //   id: 6, 
+    //   name: 'Monster NOMAD Portable Indoor/Outdoor Wireless Speaker',
+    //   details: [
+    //     'Bluetooth And NFC Technology',
+    //     '30W Of Total Audio Power',
+    //     'IPX4 Water-Resistant Rating'
+    //   ],
+    //   description: 'The NOMAD packs high-power sound and long battery life in a compact speaker that easily fits in your backpack. Built for outdoors and indoors, rain or shine, this speaker-radio balances form and function that won’t slow you down.'
+    // },
     {
       id: 7, 
       name: 'Ray-Ban Clubmaster Classic - W0365',
