@@ -238,7 +238,7 @@ export class PrizesService {
       name: 'Addidas Toronto Maple Leafs Auston Matthews',
       details: [
         'Auston Matthews. Number 34 on back',
-        'Size: Large',
+        'Size: 48',
         'Adidas Authentic Jersey'
       ],
       description: 'Mens Toronto Maple Leafs Auston Matthews adidas Blue Authentic Player - Jersey'
