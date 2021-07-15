@@ -224,6 +224,16 @@ export class PrizesService {
       description: 'Certified Tool Set, 191 piece set includes all general household tools'
     },
     {
+      id: 23, 
+      name: 'Adidas Toronto Maple Leafs Auston Matthews',
+      details: [
+        'Auston Matthews. Number 34 on back',
+        'Size: 48',
+        'Adidas Authentic Jersey'
+      ],
+      description: 'Mens Toronto Maple Leafs Auston Matthews adidas Blue Authentic Player - Jersey'
+    },
+    {
       id: 18, 
       name: 'Vladimir Guerrero Jr. Toronto Blue Jays Majestic Jersey',
       details: [
@@ -232,17 +242,8 @@ export class PrizesService {
         'Made by Majestic'
       ],
       description: 'Majestic Vladimir Guerrero Jr. Toronto Blue Jays MLB Jersey'
-    },
-    {
-      id: 23, 
-      name: 'Addidas Toronto Maple Leafs Auston Matthews',
-      details: [
-        'Auston Matthews. Number 34 on back',
-        'Size: 48',
-        'Adidas Authentic Jersey'
-      ],
-      description: 'Mens Toronto Maple Leafs Auston Matthews adidas Blue Authentic Player - Jersey'
     }
+    
 
   ]
   constructor() { }
