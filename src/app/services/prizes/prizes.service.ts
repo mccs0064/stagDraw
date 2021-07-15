@@ -232,7 +232,18 @@ export class PrizesService {
         'Made by Majestic'
       ],
       description: 'Majestic Vladimir Guerrero Jr. Toronto Blue Jays MLB Jersey'
+    },
+    {
+      id: 23, 
+      name: 'Addidas Toronto Maple Leafs Auston Matthews',
+      details: [
+        'Auston Matthews. Number 34 on back',
+        'Size: Large',
+        'Adidas Authentic Jersey'
+      ],
+      description: 'Mens Toronto Maple Leafs Auston Matthews adidas Blue Authentic Player - Jersey'
     }
+
   ]
   constructor() { }
   getPrizes(): Array<IPrize>{
